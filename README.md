@@ -64,6 +64,9 @@
 - **Sidebar Cleaner**: Hide stories ("Apri storie"), recommended channels, and offline channels.
 - **Multi-Language Support**: Fully localized in English, Italian, French, and German.
 
+### 🔄 7. Native Auto-Updater
+- **Seamless GitHub Releases Sync**: Automatically checks for updates on launch or via Settings with a one-click background download and restart flow.
+
 ---
 
 ## 🚀 Installation & Getting Started
