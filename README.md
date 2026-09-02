@@ -1,7 +1,3 @@
-# Twitch-Retold-Desktop-App-Version-of-Twitch
-Twitch Retold is a desktop version of Twitch that includes all the features needed to provide the best possible user experience
-
-
 <div align="center">
 
 # 🟣 Twitch Retold
@@ -9,9 +5,10 @@ Twitch Retold is a desktop version of Twitch that includes all the features need
 **The Ultimate, Ultra-Clean & Ad-Free Desktop Experience for Twitch**
 
 [![Version](https://img.shields.io/badge/version-1.0.0-9146FF.svg?style=for-the-badge)](https://github.com/)
-[![Platform](https://img.shields.io/badge/platform-Windows%20x64-0078D7.svg?style=for-the-badge&logo=windows)](https://github.com/)
+[![Windows](https://img.shields.io/badge/Windows-x64%20installer-0078D7.svg?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/)
+[![macOS](https://img.shields.io/badge/macOS-Universal%20DMG-000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/)
+[![Linux](https://img.shields.io/badge/Linux-AppImage%20%7C%20DEB-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/)
 [![Ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/hyperfinal)
-[![License](https://img.shields.io/badge/license-100%25%20Free-22C55E.svg?style=for-the-badge)](https://github.com/)
 
 ---
 
@@ -19,7 +16,7 @@ Twitch Retold is a desktop version of Twitch that includes all the features need
   <b>Twitch Retold</b> is a modern, standalone desktop client engineered to provide the cleanest, fastest, and most immersive Twitch viewing experience — completely free and ad-free.
 </p>
 
-[📥 **Download Latest Windows Release (.exe)**](https://github.com/) • [☕ **Support on Ko-fi**](https://ko-fi.com/hyperfinal)
+[📥 **Download Latest Releases (Windows / macOS / Linux)**](https://github.com/) • [☕ **Support on Ko-fi**](https://ko-fi.com/hyperfinal)
 
 ---
 
@@ -55,10 +52,17 @@ Twitch Retold is a desktop version of Twitch that includes all the features need
 
 ## 🚀 Installation & Getting Started
 
-1. Go to the [**Releases**](https://github.com/) section.
-2. Download the installer: `Twitch Retold Setup 1.0.0.exe`.
-3. Run the installer and choose your installation directory (Desktop and Start Menu shortcuts are created automatically).
-4. Launch **Twitch Retold** and enjoy your ad-free stream!
+### 🪟 Windows:
+1. Download `Twitch Retold Setup 1.0.0.exe`.
+2. Run the installer to create Start Menu and Desktop shortcuts.
+
+### 🍎 macOS:
+1. Download `Twitch.Retold-1.0.0.dmg` (supports both Apple Silicon M1/M2/M3 and Intel Macs).
+2. Open the DMG and drag **Twitch Retold** into your **Applications** folder.
+
+### 🐧 Linux:
+1. **AppImage** (Universal): Download `Twitch.Retold-1.0.0.AppImage`, make it executable (`chmod +x Twitch.Retold-1.0.0.AppImage`), and run.
+2. **Debian / Ubuntu / Mint**: Download `twitch-retold_1.0.0_amd64.deb` and install via `sudo dpkg -i twitch-retold_1.0.0_amd64.deb`.
 
 ---
 
@@ -71,14 +75,6 @@ Twitch Retold is a desktop version of Twitch that includes all the features need
 | <kbd>F11</kbd> | Toggle Fullscreen Mode |
 
 ---
-
-## 📱 Mobile Version (Work in Progress)
-
-> [!NOTE]
-> 🚧 **Twitch Retold for Mobile is currently in development!**
->
-> We are working on bringing the same ad-free, high-performance experience, custom themes, sub-only VOD unlocking, and full emote support to mobile devices. Stay tuned for upcoming release announcements!
-
 
 ## ☕ Support the Project
 
@@ -99,6 +95,15 @@ If you love using Twitch Retold and want to support ongoing updates, maintenance
 *Every contribution helps keep Twitch Retold actively updated. Thank you for your support! ❤️*
 
 </div>
+
+---
+
+## 📱 Mobile Version (Work in Progress)
+
+> [!NOTE]
+> 🚧 **Twitch Retold for Mobile is currently in development!**
+>
+> We are working on bringing the same ad-free, high-performance experience, custom themes, sub-only VOD unlocking, and full emote support to mobile devices. Stay tuned for upcoming release announcements!
 
 ---
 
