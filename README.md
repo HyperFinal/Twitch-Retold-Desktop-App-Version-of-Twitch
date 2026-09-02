@@ -4,10 +4,10 @@
 
 **The Ultimate, Ultra-Clean & Ad-Free Desktop Experience for Twitch**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-9146FF.svg?style=for-the-badge)](https://github.com/)
-[![Windows](https://img.shields.io/badge/Windows-x64%20installer-0078D7.svg?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/)
-[![macOS](https://img.shields.io/badge/macOS-Universal%20DMG-000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/)
-[![Linux](https://img.shields.io/badge/Linux-AppImage%20%7C%20DEB-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/)
+[![Version](https://img.shields.io/github/v/release/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch?color=9146FF&label=version&style=for-the-badge)](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest)
+[![Windows](https://img.shields.io/badge/Windows-x64%20installer-0078D7.svg?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest)
+[![macOS](https://img.shields.io/badge/macOS-Universal%20DMG-000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest)
+[![Linux](https://img.shields.io/badge/Linux-AppImage%20%7C%20DEB-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest)
 [![Ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/hyperfinal)
 
 ---
@@ -16,11 +16,27 @@
   <b>Twitch Retold</b> is a modern, standalone desktop client engineered to provide the cleanest, fastest, and most immersive Twitch viewing experience — completely free and ad-free.
 </p>
 
-[📥 **Download Latest Releases (Windows / macOS / Linux)**](https://github.com/) • [☕ **Support on Ko-fi**](https://ko-fi.com/hyperfinal)
+[📥 **Download Latest Releases (Windows / macOS / Linux)**](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest) • [☕ **Support on Ko-fi**](https://ko-fi.com/hyperfinal)
 
 ---
 
 </div>
+
+## 📸 App Preview & Interface
+
+<p align="center">
+  <img src="img/Img_Home.png" alt="Twitch Retold Homepage" width="100%" style="border-radius: 10px; margin-bottom: 16px;" />
+</p>
+
+<p align="center">
+  <img src="img/Img_Playlist.png" alt="Series & Playlist Player" width="100%" style="border-radius: 10px; margin-bottom: 16px;" />
+</p>
+
+<p align="center">
+  <img src="img/Img_Tab.png" alt="Twitch Retold Settings & Toggles" width="100%" style="border-radius: 10px;" />
+</p>
+
+---
 
 ## ✨ Key Features
 
@@ -53,16 +69,16 @@
 ## 🚀 Installation & Getting Started
 
 ### 🪟 Windows:
-1. Download `Twitch Retold Setup 1.0.1.exe`.
+1. Go to [Latest Releases](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest) and download `Twitch Retold Setup <version>.exe`.
 2. Run the installer. If Windows Defender SmartScreen blocks the application, click on **"More info"** and then **"Run anyway"** to proceed.
 
 ### 🍎 macOS:
-1. Download `Twitch.Retold-1.0.1.dmg` (supports both Apple Silicon M1/M2/M3 and Intel Macs).
+1. Download `Twitch.Retold-<version>.dmg` (supports both Apple Silicon M1/M2/M3 and Intel Macs).
 2. Open the DMG and drag **Twitch Retold** into your **Applications** folder.
 
 ### 🐧 Linux:
-1. **AppImage** (Universal): Download `Twitch.Retold-1.0.1.AppImage`, make it executable (`chmod +x Twitch.Retold-1.0.1.AppImage`), and run.
-2. **Debian / Ubuntu / Mint**: Download `twitch-retold_1.0.1_amd64.deb` and install via `sudo dpkg -i twitch-retold_1.0.1_amd64.deb`.
+1. **AppImage** (Universal): Download `Twitch.Retold-<version>.AppImage`, make it executable (`chmod +x Twitch.Retold-*.AppImage`), and run.
+2. **Debian / Ubuntu / Mint**: Download `twitch-retold_*_amd64.deb` and install via `sudo dpkg -i twitch-retold_*_amd64.deb`.
 
 ---
 
@@ -78,7 +94,7 @@
 
 ## ⭐ Show Your Support
 
-If you find **Twitch Retold** useful, please consider giving this repository a **Star** ⭐ on GitHub and sharing it with friends! It helps more people find the project, thanks!
+If you find **Twitch Retold** useful, please consider giving this repository a **Star** ⭐ on GitHub and sharing it with friends! It helps more people find the project and motivates ongoing development.
 
 ---
 
