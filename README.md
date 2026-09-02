@@ -53,16 +53,16 @@
 ## 🚀 Installation & Getting Started
 
 ### 🪟 Windows:
-1. Download `Twitch Retold Setup 1.0.0.exe`.
-2. Run the installer to create Start Menu and Desktop shortcuts.
+1. Download `Twitch Retold Setup 1.0.1.exe`.
+2. Run the installer. If Windows Defender SmartScreen blocks the application, click on **"More info"** and then **"Run anyway"** to proceed.
 
 ### 🍎 macOS:
-1. Download `Twitch.Retold-1.0.0.dmg` (supports both Apple Silicon M1/M2/M3 and Intel Macs).
+1. Download `Twitch.Retold-1.0.1.dmg` (supports both Apple Silicon M1/M2/M3 and Intel Macs).
 2. Open the DMG and drag **Twitch Retold** into your **Applications** folder.
 
 ### 🐧 Linux:
-1. **AppImage** (Universal): Download `Twitch.Retold-1.0.0.AppImage`, make it executable (`chmod +x Twitch.Retold-1.0.0.AppImage`), and run.
-2. **Debian / Ubuntu / Mint**: Download `twitch-retold_1.0.0_amd64.deb` and install via `sudo dpkg -i twitch-retold_1.0.0_amd64.deb`.
+1. **AppImage** (Universal): Download `Twitch.Retold-1.0.1.AppImage`, make it executable (`chmod +x Twitch.Retold-1.0.1.AppImage`), and run.
+2. **Debian / Ubuntu / Mint**: Download `twitch-retold_1.0.1_amd64.deb` and install via `sudo dpkg -i twitch-retold_1.0.1_amd64.deb`.
 
 ---
 
