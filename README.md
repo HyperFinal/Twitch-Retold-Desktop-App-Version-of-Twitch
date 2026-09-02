@@ -76,6 +76,12 @@
 
 ---
 
+## ⭐ Show Your Support
+
+If you find **Twitch Retold** useful, please consider giving this repository a **Star** ⭐ on GitHub and sharing it with friends! It helps more people find the project, thanks!
+
+---
+
 ## ☕ Support the Project
 
 Twitch Retold is an independent, **100% free** application designed to give everyone the cleanest and most enjoyable Twitch viewing experience.
