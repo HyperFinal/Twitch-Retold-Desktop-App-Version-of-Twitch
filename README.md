@@ -72,6 +72,14 @@ Twitch Retold is a desktop version of Twitch that includes all the features need
 
 ---
 
+## 📱 Mobile Version (Work in Progress)
+
+> [!NOTE]
+> 🚧 **Twitch Retold for Mobile is currently in development!**
+>
+> We are working on bringing the same ad-free, high-performance experience, custom themes, sub-only VOD unlocking, and full emote support to mobile devices. Stay tuned for upcoming release announcements!
+
+
 ## ☕ Support the Project
 
 Twitch Retold is an independent, **100% free** application designed to give everyone the cleanest and most enjoyable Twitch viewing experience.
