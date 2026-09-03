@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-09-03",
+  "description": "Twitch Retold Remote Ad-Proxy Registry with automatic fallback and latency health checks",
+  "proxies": [
+    {
+      "id": "eu-luminous",
+      "name": "Europe (Luminous)",
+      "region": "EU",
+      "url": "https://eu.luminous.dev/live/",
+      "pingUrl": "https://eu.luminous.dev/ping",
+      "status": "active"
+    },
+    {
+      "id": "us-luminous",
+      "name": "North America (Luminous)",
+      "region": "US",
+      "url": "https://us.luminous.dev/live/",
+      "pingUrl": "https://us.luminous.dev/ping",
+      "status": "active"
+    },
+    {
+      "id": "eu-ttv-lol",
+      "name": "Europe (TTV LOL Community)",
+      "region": "EU",
+      "url": "https://api.ttv.lol/playlist/",
+      "pingUrl": "https://api.ttv.lol/ping",
+      "status": "active"
+    }
+  ],
+  "defaultProxy": "eu-luminous",
+  "fallbackMode": "direct",
+  "directCleanerEnabled": true
+}

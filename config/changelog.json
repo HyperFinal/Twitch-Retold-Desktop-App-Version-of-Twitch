@@ -1,0 +1,75 @@
+[
+  {
+    "version": "1.0.5",
+    "date": "2026-09-03",
+    "badge": "LATEST",
+    "title": {
+      "it": "Aggiornamento v1.0.5 - Stabilità Live, Ad-Block e Sistema Feedback",
+      "en": "Update v1.0.5 - Live Stream Stability, Ad-Block & Feedback System",
+      "fr": "Mise à jour v1.0.5 - Stabilité du direct, Ad-Block et système de retours",
+      "de": "Update v1.0.5 - Live-Stream-Stabilität, Ad-Block und Feedback-System"
+    },
+    "items": [
+      {
+        "type": "fix",
+        "title": {
+          "it": "Risolto Falso Schermo Offline sui Canali Live",
+          "en": "Fixed False Offline Screen on Live Streams",
+          "fr": "Correction de l'écran hors ligne sur les flux en direct",
+          "de": "Falscher Offline-Bildschirm bei Live-Streams behoben"
+        },
+        "desc": {
+          "it": "Risolto il problema che mostrava erroneamente i canali in diretta come offline. La riproduzione nativa a 1080p60 è ora garantita e immediata.",
+          "en": "Fixed an issue where active live streams were mistakenly displayed as offline. Native 1080p60 playback is now reliable and immediate.",
+          "fr": "Correction du problème affichant par erreur des chaînes en direct comme hors ligne. La lecture 1080p60 native est désormais immédiate.",
+          "de": "Behebt das Problem, dass aktive Live-Streams fälschlicherweise als offline angezeigt wurden. Native 1080p60-Wiedergabe ist nun sofort verfügbar."
+        }
+      },
+      {
+        "type": "improvement",
+        "title": {
+          "it": "Motore Ad-Block Diretto & Failover Automatico",
+          "en": "Direct Ad-Block Engine & Auto-Failover",
+          "fr": "Moteur direct anti-pub & basculement automatique",
+          "de": "Direkte Ad-Block-Engine & automatischer Failover"
+        },
+        "desc": {
+          "it": "Nuova modalità predefinita Direct con rimozione locale delle pubblicità (SSAI) a zero latenza. Se un proxy fallisce, il player passa alla modalità diretta senza interruzioni.",
+          "en": "New default Direct mode with zero-latency local SSAI ad stripping. If an ad proxy becomes unreachable, playback seamlessly continues in Direct mode.",
+          "fr": "Nouveau mode Direct par défaut avec suppression locale des publicités sans latence. Basculement automatique et fluide en cas d'indisponibilité du proxy.",
+          "de": "Neuer Standard-Direktmodus mit latenzfreier lokaler Werbeentfernung (SSAI). Bei Ausfall eines Proxys läuft die Wiedergabe unterbrechungsfrei weiter."
+        }
+      },
+      {
+        "type": "new",
+        "title": {
+          "it": "Pulsante Feedback & Segnalazione Bug",
+          "en": "Feedback & Bug Report System",
+          "fr": "Bouton de retour & signalement de bug",
+          "de": "Feedback & Fehlerberichts-System"
+        },
+        "desc": {
+          "it": "Invia pareri, suggerimenti o segnala anomalie direttamente dall'app con diagnostica di sistema e apertura automatica di issue su GitHub.",
+          "en": "Submit feedback, feature requests, or bug reports directly from the app with one-click GitHub issue creation and system diagnostics.",
+          "fr": "Envoyez vos retours ou signalez des bugs directement depuis l'application avec diagnostics système et création d'issue sur GitHub.",
+          "de": "Senden Sie Feedback oder melden Sie Fehler direkt aus der App mit integrierter Systemdiagnose und GitHub-Issue-Erstellung."
+        }
+      },
+      {
+        "type": "new",
+        "title": {
+          "it": "Note di Rilascio & Changelog Interattivo",
+          "en": "Interactive Release Notes & Changelog",
+          "fr": "Notes de version & Changelog interactif",
+          "de": "Interaktive Versionshinweise & Changelog"
+        },
+        "desc": {
+          "it": "Finestra con l'elenco delle novità mostrata automaticamente al primo avvio dopo ogni aggiornamento e consultabile dalle impostazioni.",
+          "en": "What's New window displayed on first launch after each update, accessible anytime from the Settings menu.",
+          "fr": "Fenêtre récapitulative affichée au premier lancement après chaque mise à jour, accessible à tout moment dans les paramètres.",
+          "de": "Übersichtsfenster beim ersten Start nach jedem Update, jederzeit über das Einstellungsmenü aufrufbar."
+        }
+      }
+    ]
+  }
+]
