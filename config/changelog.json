@@ -1,28 +1,72 @@
 [
   {
-    "version": "1.0.5",
-    "date": "2026-09-03",
+    "version": "1.0.6",
+    "date": "2026-09-04",
     "badge": "LATEST",
     "title": {
-      "it": "Aggiornamento v1.0.5 - Stabilità Live, Ad-Block e Sistema Feedback",
-      "en": "Update v1.0.5 - Live Stream Stability, Ad-Block & Feedback System",
-      "fr": "Mise à jour v1.0.5 - Stabilité du direct, Ad-Block et système de retours",
-      "de": "Update v1.0.5 - Live-Stream-Stabilität, Ad-Block und Feedback-System"
+      "it": "Aggiornamento v1.0.6 - Cronologia Recenti, Canale Telegram e Bug Fixes",
+      "en": "Update v1.0.6 - Last Watched Tab, Telegram Channel & Bug Fixes",
+      "fr": "Mise à jour v1.0.6 - Onglet récents, canal Telegram et corrections",
+      "de": "Update v1.0.6 - Verlauf-Tab, Telegram-Kanal und Fehlerbehebungen",
+      "es": "Actualización v1.0.6 - Pestaña de Recientes, Canal de Telegram y Correcciones",
+      "pt": "Atualização v1.0.6 - Aba de Recentes, Canal do Telegram e Correções"
     },
     "items": [
+      {
+        "type": "new",
+        "title": {
+          "it": "Tab 'Ultime Live\\Vod' con Scelta Live / VOD e Popup Dark",
+          "en": "Dedicated 'Last Live / VODs' Tab with Live/VOD Choice & Dark Dialogs",
+          "fr": "Onglet 'Derniers Live / VODs' avec choix Direct/VOD et dialogue sombre",
+          "de": "Tab 'Letzte Live / VODs' mit Live/VOD-Auswahl und Dark-Dialogen",
+          "es": "Pestaña 'Últimos Directos / VODs' con Elección Directo/VOD y Diálogos Oscuros",
+          "pt": "Aba 'Últimos Ao Vivo / VODs' com Escolha Ao Vivo/VOD e Diálogos Escuros"
+        },
+        "desc": {
+          "it": "Nuovo pulsante illuminato nella barra di navigazione con cronologia live e VOD, scelta interattiva tra diretta o ripresa dal minutaggio salvato, conversione automatica delle live terminate e dialogo di conferma dark personalizzato.",
+          "en": "Highlighted navigation pill with watch history, smart prompt to resume live or continue from saved VOD timestamp, auto-conversion for ended streams, and custom dark confirmation dialog.",
+          "fr": "Nouvel onglet illuminé avec historique, invite pour reprendre le direct ou la VOD avec horodatage, conversion automatique des flux terminés et boîte de dialogue personnalisée.",
+          "de": "Hervorgehobener Button mit Verlauf, Abfrage zwischen Live und VOD-Zeitstempel, automatische Umwandlung beendeter Streams und benutzerdefinierter Bestätigungsdialog.",
+          "es": "Nuevo botón iluminado en la barra de navegación con historial de directos y VODs, selector interactivo para reanudar el directo o continuar desde el minuto guardado, conversión automática de directos finalizados y diálogo de confirmación oscuro personalizado.",
+          "pt": "Novo botão destacado na barra de navegação com histórico de transmissões e VODs, escolha inteligente entre transmissão ao vivo ou retomar pelo tempo salvo, conversão automática para transmissões encerradas e diálogo de confirmação escuro customizado."
+        }
+      },
+      {
+        "type": "new",
+        "title": {
+          "it": "Canale Telegram Ufficiale & Promemoria Notifiche",
+          "en": "Official Telegram Channel & Reminder Notifications",
+          "fr": "Canal Telegram Officiel & Rappels de Notification",
+          "de": "Offizieller Telegram-Kanal & Erinnerungsbenachrichtigungen",
+          "es": "Canal Oficial de Telegram y Notificaciones de Recordatorio",
+          "pt": "Canal Oficial do Telegram e Notificações de Lembrete"
+        },
+        "desc": {
+          "it": "Pulsante diretto nella barra del titolo per il canale ufficiale @twitch_retold, promemoria temporizzato discreto e notifiche istantanee per ogni nuova versione pubblicata.",
+          "en": "Direct titlebar button for the official @twitch_retold channel, discreet timed reminder toast, and instant notifications for every published release.",
+          "fr": "Bouton direct dans la barre de titre pour le canal officiel @twitch_retold, rappel discret temporisé et notifications instantanées pour chaque nouvelle version.",
+          "de": "Direkter Button in der Titelleiste für den offiziellen Kanal @twitch_retold, dezente zeitgesteuerte Erinnerung und sofortige Benachrichtigungen bei neuen Releases.",
+          "es": "Botón directo en la barra de título para el canal oficial @twitch_retold, recordatorio emergente discreto y avisos instantáneos con cada nueva versión publicada.",
+          "pt": "Botão direto na barra de título para o canal oficial @twitch_retold, lembrete temporizado discreto e notificações instantâneas a cada nova versão publicada."
+        }
+      },
       {
         "type": "fix",
         "title": {
           "it": "Risolto Falso Schermo Offline sui Canali Live",
           "en": "Fixed False Offline Screen on Live Streams",
           "fr": "Correction de l'écran hors ligne sur les flux en direct",
-          "de": "Falscher Offline-Bildschirm bei Live-Streams behoben"
+          "de": "Falscher Offline-Bildschirm bei Live-Streams behoben",
+          "es": "Corregida Pantalla de Fuera de Línea en Directos Activos",
+          "pt": "Correção de Falsa Tela Offline em Transmissões Ao Vivo"
         },
         "desc": {
           "it": "Risolto il problema che mostrava erroneamente i canali in diretta come offline. La riproduzione nativa a 1080p60 è ora garantita e immediata.",
           "en": "Fixed an issue where active live streams were mistakenly displayed as offline. Native 1080p60 playback is now reliable and immediate.",
           "fr": "Correction du problème affichant par erreur des chaînes en direct comme hors ligne. La lecture 1080p60 native est désormais immédiate.",
-          "de": "Behebt das Problem, dass aktive Live-Streams fälschlicherweise als offline angezeigt wurden. Native 1080p60-Wiedergabe ist nun sofort verfügbar."
+          "de": "Behebt das Problem, dass aktive Live-Streams fälschlicherweise als offline angezeigt wurden. Native 1080p60-Wiedergabe ist nun sofort verfügbar.",
+          "es": "Solucionado el problema que mostraba erróneamente canales en vivo como fuera de línea. La reproducción nativa a 1080p60 ahora es inmediata y garantizada.",
+          "pt": "Corrigido o problema que exibia incorretamente transmissões ativas como offline. A reprodução nativa em 1080p60 agora é garantida e imediata."
         }
       },
       {
@@ -31,13 +75,17 @@
           "it": "Motore Ad-Block Diretto & Failover Automatico",
           "en": "Direct Ad-Block Engine & Auto-Failover",
           "fr": "Moteur direct anti-pub & basculement automatique",
-          "de": "Direkte Ad-Block-Engine & automatischer Failover"
+          "de": "Direkte Ad-Block-Engine & automatischer Failover",
+          "es": "Motor Ad-Block Directo y Conmutación Automática",
+          "pt": "Motor Ad-Block Direto e Transição Automática"
         },
         "desc": {
           "it": "Nuova modalità predefinita Direct con rimozione locale delle pubblicità (SSAI) a zero latenza. Se un proxy fallisce, il player passa alla modalità diretta senza interruzioni.",
           "en": "New default Direct mode with zero-latency local SSAI ad stripping. If an ad proxy becomes unreachable, playback seamlessly continues in Direct mode.",
           "fr": "Nouveau mode Direct par défaut avec suppression locale des publicités sans latence. Basculement automatique et fluide en cas d'indisponibilité du proxy.",
-          "de": "Neuer Standard-Direktmodus mit latenzfreier lokaler Werbeentfernung (SSAI). Bei Ausfall eines Proxys läuft die Wiedergabe unterbrechungsfrei weiter."
+          "de": "Neuer Standard-Direktmodus mit latenzfreier lokaler Werbeentfernung (SSAI). Bei Ausfall eines Proxys läuft die Wiedergabe unterbrechungsfrei weiter.",
+          "es": "Nuevo modo Direct predeterminado con eliminación local de anuncios (SSAI) sin latencia. Si un proxy falla, la reproducción continúa en modo directo sin interrupciones.",
+          "pt": "Novo modo Direct padrão com remoção local de anúncios (SSAI) com latência zero. Se um proxy falhar, o player continua no modo direto sem qualquer interrupção."
         }
       },
       {
@@ -46,28 +94,36 @@
           "it": "Pulsante Feedback & Segnalazione Bug",
           "en": "Feedback & Bug Report System",
           "fr": "Bouton de retour & signalement de bug",
-          "de": "Feedback & Fehlerberichts-System"
+          "de": "Feedback & Fehlerberichts-System",
+          "es": "Botón de Comentarios y Reporte de Errores",
+          "pt": "Botão de Feedback e Relatório de Erros"
         },
         "desc": {
-          "it": "Invia pareri, suggerimenti o segnala anomalie direttamente dall'app con diagnostica di sistema e apertura automatica di issue su GitHub.",
-          "en": "Submit feedback, feature requests, or bug reports directly from the app with one-click GitHub issue creation and system diagnostics.",
-          "fr": "Envoyez vos retours ou signalez des bugs directement depuis l'application avec diagnostics système et création d'issue sur GitHub.",
-          "de": "Senden Sie Feedback oder melden Sie Fehler direkt aus der App mit integrierter Systemdiagnose und GitHub-Issue-Erstellung."
+          "it": "Invia pareri, suggerimenti o segnala anomalie direttamente dall'app con diagnostica di sistema e apertura automatica nel browser predefinito.",
+          "en": "Submit feedback, feature requests, or bug reports directly from the app with system diagnostics and one-click opening in your default browser.",
+          "fr": "Envoyez vos retours ou signalez des bugs directement depuis l'application avec diagnostics système et ouverture dans votre navigateur par défaut.",
+          "de": "Senden Sie Feedback oder melden Sie Fehler direkt aus der App mit Systemdiagnose und Öffnen im Standardbrowser.",
+          "es": "Envía opiniones, sugerencias o reporta incidencias directamente desde la aplicación con diagnóstico del sistema y apertura automática en tu navegador predeterminado.",
+          "pt": "Envie sugestões ou relate problemas diretamente do aplicativo com diagnóstico do sistema e abertura automática no seu navegador padrão."
         }
       },
       {
         "type": "new",
         "title": {
-          "it": "Note di Rilascio & Changelog Interattivo",
-          "en": "Interactive Release Notes & Changelog",
-          "fr": "Notes de version & Changelog interactif",
-          "de": "Interaktive Versionshinweise & Changelog"
+          "it": "Canale Ufficiale Telegram & Community",
+          "en": "Official Telegram Channel & Community",
+          "fr": "Canal Officiel Telegram & Communauté",
+          "de": "Offizieller Telegram-Kanal & Community",
+          "es": "Canal Oficial de Telegram y Comunidad",
+          "pt": "Canal Oficial do Telegram e Comunidade"
         },
         "desc": {
-          "it": "Finestra con l'elenco delle novità mostrata automaticamente al primo avvio dopo ogni aggiornamento e consultabile dalle impostazioni.",
-          "en": "What's New window displayed on first launch after each update, accessible anytime from the Settings menu.",
-          "fr": "Fenêtre récapitulative affichée au premier lancement après chaque mise à jour, accessible à tout moment dans les paramètres.",
-          "de": "Übersichtsfenster beim ersten Start nach jedem Update, jederzeit über das Einstellungsmenü aufrufbar."
+          "it": "Aggiunto pulsante dedicato nella barra in alto, nelle impostazioni e banner promemoria a scomparsa (10s) sulla home per entrare direttamente nel canale Telegram @twitch_retold per annunci e release.",
+          "en": "Added dedicated Telegram button in the top bar, settings, and an occasional 10-second reminder toast on the home page to join @twitch_retold for instant release announcements.",
+          "fr": "Ajout d'un bouton Telegram dans la barre supérieure, les paramètres et d'un rappel occasionnel de 10s sur l'accueil pour rejoindre @twitch_retold.",
+          "de": "Neuer Telegram-Button in der Leiste, Einstellungen und gelegentlicher 10-Sekunden-Reminder auf der Startseite, um @twitch_retold beizutreten.",
+          "es": "Añadido botón de Telegram en la barra superior, ajustes y un aviso emergente ocasional de 10s en la página de inicio para unirse a @twitch_retold.",
+          "pt": "Adicionado botão do Telegram na barra superior, configurações e um lembrete ocasional de 10s na página inicial para entrar no @twitch_retold."
         }
       }
     ]

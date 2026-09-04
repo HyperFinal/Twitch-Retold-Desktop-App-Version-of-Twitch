@@ -4,11 +4,11 @@
 
 **The Ultimate, Ultra-Clean & Ad-Free Desktop Experience for Twitch**
 
-[![Version](https://img.shields.io/github/v/release/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch?color=9146FF&label=version&style=for-the-badge)](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest)
+[![Version](https://img.shields.io/github/v/release/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch?color=9146FF&label=version&style=for-the-badge&cacheSeconds=60)](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-x64%20installer-0078D7.svg?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest)
 [![macOS](https://img.shields.io/badge/macOS-Universal%20DMG-000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest)
 [![Linux](https://img.shields.io/badge/Linux-AppImage%20%7C%20DEB-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest)
-[![Telegram](https://img.shields.io/badge/Telegram-Canale%20Ufficiale-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/twitch_retold)
+[![Telegram](https://img.shields.io/badge/Telegram-Official%20Channel-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/twitch_retold)
 [![Ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/hyperfinal)
 
 ---
@@ -17,7 +17,7 @@
   <b>Twitch Retold</b> is a modern, standalone desktop client engineered to provide the cleanest, fastest, and most immersive Twitch viewing experience — completely free and ad-free.
 </p>
 
-[📥 **Download Latest Releases (Windows / macOS / Linux)**](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest) • [📢 **Canale Telegram**](https://t.me/twitch_retold) • [☕ **Support on Ko-fi**](https://ko-fi.com/hyperfinal)
+[📥 **Download Latest Releases (Windows / macOS / Linux)**](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest) • [📢 **Telegram Channel**](https://t.me/twitch_retold) • [☕ **Support on Ko-fi**](https://ko-fi.com/hyperfinal)
 
 ---
 
@@ -56,19 +56,27 @@
 ### 🎬 4. Playlist & Series Player
 - **Sequential VOD Playback**: Binge-watch long gaming sessions, walkthrough series, and past broadcasts with automatic next-episode queuing.
 
-### 🌙 5. True Dark OLED Theme
+### ⏱️ 5. Watch History & VOD Timestamp Resume
+- **Interactive 'Last Live / VODs' Navigation Tab**: Instant access to your recently watched channels and streams right from the top navigation bar.
+- **Smart Live vs. VOD Choice**: If a channel is live, seamlessly choose between jumping straight into the live stream or resuming from your exact saved timestamp in the VOD.
+- **Auto-Conversion for Ended Streams**: Past live broadcasts automatically convert into VODs with your watch progression preserved.
+- **Custom Dark Modal**: Sleek confirmation dialogs and individual history management.
+
+### 🌙 6. True Dark OLED Theme
 - **Deep Black Aesthetic**: Tailored for high-end OLED and IPS monitors with deep `#0a0a0f` tones and sleek neon accents.
 - **Distraction-Free UI**: Clean titlebar, navigation buttons, and refined chat readability.
 
-### ⚙️ 6. Modular Customization (Settings Modal `F2`)
-- **Top Bar Cleaner**: Option to hide native search bars, promo banners, and navigation tabs.
-- **Sidebar Cleaner**: Hide stories ("Apri storie"), recommended channels, and offline channels.
+### ⚙️ 7. Modular Customization (Settings Modal `F2`)
+- **Top Bar Cleaner**: Option to hide native promo banners, notifications, and clutter.
+- **Sidebar Cleaner**: Hide stories, recommended channels, and offline channels.
 - **Multi-Language Support**: Fully localized in English, Italian, French, German, Spanish, and Portuguese.
 
-### 🔄 7. Native Auto-Updater
-- **Seamless GitHub Releases Sync**: Automatically checks for updates on launch or via Settings with a one-click background download and restart flow.
+### 🔄 8. Native 1-Click Auto-Updater
+- **Instant Toast Notification**: Displays a sleek, non-intrusive glowing notification toast as soon as a new version is published.
+- **1-Click Download & Seamless Restart**: Clicking "Update" immediately starts the download with real-time progress, then restarts into the updated app with all user data preserved.
+- **Periodic Background Polling**: Automatically checks GitHub Releases every 2 hours in the background, so long-running sessions never fall behind.
 
-### 📢 8. Official Telegram Channel
+### 📢 9. Official Telegram Channel
 - **Instant Release Notifications**: Stay up to date with new versions, automatic changelogs, and direct installer links via [@twitch_retold](https://t.me/twitch_retold).
 
 ---
@@ -99,6 +107,12 @@
 
 ---
 
+## ⭐ Show Your Support
+
+If you find **Twitch Retold** useful, please consider giving this repository a **Star** ⭐ on GitHub and sharing it with friends! It helps more people find the project and motivates ongoing development.
+
+---
+
 ## 📢 Official Telegram Channel
 
 Stay instantly informed about new releases, critical bug fixes, and feature updates. Get direct download links for Windows, macOS, and Linux as soon as a new version is published:
@@ -110,12 +124,6 @@ Stay instantly informed about new releases, critical bug fixes, and feature upda
 **👉 [https://t.me/twitch_retold](https://t.me/twitch_retold)**
 
 </div>
-
----
-
-## ⭐ Show Your Support
-
-If you find **Twitch Retold** useful, please consider giving this repository a **Star** ⭐ on GitHub and sharing it with friends! It helps more people find the project and motivates ongoing development.
 
 ---
 
@@ -153,4 +161,3 @@ If you love using Twitch Retold and want to support ongoing updates, maintenance
 <div align="center">
 <sub>Twitch Retold is not affiliated with, endorsed by, or sponsored by Twitch Interactive, Inc. or Amazon.com, Inc.</sub>
 </div>
-
