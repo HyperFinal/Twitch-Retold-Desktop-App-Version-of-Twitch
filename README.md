@@ -8,6 +8,7 @@
 [![Windows](https://img.shields.io/badge/Windows-x64%20installer-0078D7.svg?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest)
 [![macOS](https://img.shields.io/badge/macOS-Universal%20DMG-000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest)
 [![Linux](https://img.shields.io/badge/Linux-AppImage%20%7C%20DEB-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest)
+[![Telegram](https://img.shields.io/badge/Telegram-Canale%20Ufficiale-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/twitch_retold)
 [![Ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/hyperfinal)
 
 ---
@@ -16,7 +17,7 @@
   <b>Twitch Retold</b> is a modern, standalone desktop client engineered to provide the cleanest, fastest, and most immersive Twitch viewing experience — completely free and ad-free.
 </p>
 
-[📥 **Download Latest Releases (Windows / macOS / Linux)**](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest) • [☕ **Support on Ko-fi**](https://ko-fi.com/hyperfinal)
+[📥 **Download Latest Releases (Windows / macOS / Linux)**](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest) • [📢 **Canale Telegram**](https://t.me/twitch_retold) • [☕ **Support on Ko-fi**](https://ko-fi.com/hyperfinal)
 
 ---
 
@@ -62,10 +63,13 @@
 ### ⚙️ 6. Modular Customization (Settings Modal `F2`)
 - **Top Bar Cleaner**: Option to hide native search bars, promo banners, and navigation tabs.
 - **Sidebar Cleaner**: Hide stories ("Apri storie"), recommended channels, and offline channels.
-- **Multi-Language Support**: Fully localized in English, Italian, French, and German.
+- **Multi-Language Support**: Fully localized in English, Italian, French, German, Spanish, and Portuguese.
 
 ### 🔄 7. Native Auto-Updater
 - **Seamless GitHub Releases Sync**: Automatically checks for updates on launch or via Settings with a one-click background download and restart flow.
+
+### 📢 8. Official Telegram Channel
+- **Instant Release Notifications**: Stay up to date with new versions, automatic changelogs, and direct installer links via [@twitch_retold](https://t.me/twitch_retold).
 
 ---
 
@@ -92,6 +96,20 @@
 | <kbd>F2</kbd> | Open **Twitch Retold Settings** modal |
 | <kbd>F5</kbd> | Reload Current Page / Stream |
 | <kbd>F11</kbd> | Toggle Fullscreen Mode |
+
+---
+
+## 📢 Official Telegram Channel
+
+Stay instantly informed about new releases, critical bug fixes, and feature updates. Get direct download links for Windows, macOS, and Linux as soon as a new version is published:
+
+<div align="center">
+
+[![Join Telegram Channel](https://img.shields.io/badge/📢%20Join%20Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/twitch_retold)
+
+**👉 [https://t.me/twitch_retold](https://t.me/twitch_retold)**
+
+</div>
 
 ---
 
@@ -135,3 +153,4 @@ If you love using Twitch Retold and want to support ongoing updates, maintenance
 <div align="center">
 <sub>Twitch Retold is not affiliated with, endorsed by, or sponsored by Twitch Interactive, Inc. or Amazon.com, Inc.</sub>
 </div>
+
