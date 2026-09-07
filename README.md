@@ -2,7 +2,6 @@
 
 <img src="img/logo/Twitch Retold Logo Source Files/SVG/Twitch Retold-04.svg" alt="Twitch Retold Logo" width="130" style="margin-bottom: 12px;" />
 
-# Twitch Retold
 
 **The Ultimate, Ultra-Clean & Ad-Free Desktop Experience for Twitch**
 
