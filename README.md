@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="img/TwitchRetold_Logo.png" alt="Twitch Retold Logo" width="130" style="margin-bottom: 12px;" />
+<img src="img/logo/Twitch Retold Logo Source Files/SVG/Twitch Retold-04.svg" alt="Twitch Retold Logo" width="130" style="margin-bottom: 12px;" />
 
 # Twitch Retold
 
