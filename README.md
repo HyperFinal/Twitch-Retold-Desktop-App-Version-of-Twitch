@@ -194,5 +194,5 @@ Twitch Retold is independent and **100% free**. If you appreciate our work and w
 ---
 
 <div align="center">
-<sub>Twitch Retold is an independent open-source project and is not affiliated with, endorsed by, or sponsored by Twitch Interactive, Inc. or Amazon.com, Inc.</sub>
+<sub>Twitch Retold is an independent project and is not affiliated with, endorsed by, or sponsored by Twitch Interactive, Inc. or Amazon.com, Inc.</sub>
 </div>
