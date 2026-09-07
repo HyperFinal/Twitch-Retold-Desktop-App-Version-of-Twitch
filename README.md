@@ -14,6 +14,10 @@
 
 ---
 
+### Security 
+* **VirusTotal Report:** [SCAN](https://www.virustotal.com/gui/file/eae387ba6b500468c44d84d996a4788023229af1cb222ba87f4ec64a24458915)
+* **SHA-256:** `eae387ba6b500468c44d84d996a4788023229af1cb222ba87f4ec64a24458915`
+
 <p align="center">
   <b>Twitch Retold</b> is a modern, standalone desktop client engineered to provide the cleanest, fastest, and most immersive Twitch viewing experience — completely free, ad-free, and powered by our revolutionary proprietary engine: <b>RetoldShield</b>.
 </p>
@@ -60,7 +64,7 @@ Unlike traditional adblock proxies that downscale video to **480p/360p** with he
 
 ---
 
-### 📊 Real-World Benchmark: RetoldShield vs. Legacy AdBlock vs. PurpleTV
+### 📊 Benchmark: RetoldShield vs. Legacy AdBlock vs. PurpleTV
 
 Evaluated across a high-stress dataset recorded directly from live Twitch broadcasts (**9,072 live playlist manifests**, **131,200 video segments**, and **951 commercial ad events** across 10 top live channels):
 
