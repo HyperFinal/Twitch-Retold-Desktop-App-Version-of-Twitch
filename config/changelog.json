@@ -1,8 +1,259 @@
 [
   {
+    "version": "2.0.0",
+    "date": "2026-09-07",
+    "badge": "LATEST",
+    "title": {
+      "it": "Twitch Retold v2.0.0 - RetoldShield (Beta), Retold Mixer & Dark OLED",
+      "en": "Twitch Retold v2.0.0 - RetoldShield (Beta), Retold Mixer & Dark OLED",
+      "fr": "Twitch Retold v2.0.0 - RetoldShield (Bêta), Retold Mixer & Dark OLED",
+      "de": "Twitch Retold v2.0.0 - RetoldShield (Beta), Retold Mixer & Dark OLED",
+      "es": "Twitch Retold v2.0.0 - RetoldShield (Beta), Retold Mixer & Dark OLED",
+      "pt": "Twitch Retold v2.0.0 - RetoldShield (Beta), Retold Mixer & Dark OLED"
+    },
+    "items": [
+      {
+        "type": "feature",
+        "title": {
+          "it": "RetoldShield (Beta iniziale)",
+          "en": "RetoldShield (Initial Beta)",
+          "fr": "RetoldShield (Bêta initiale)",
+          "de": "RetoldShield (Erste Beta)",
+          "es": "RetoldShield (Beta inicial)",
+          "pt": "RetoldShield (Beta inicial)"
+        },
+        "desc": {
+          "it": "Rilascio in prima versione beta del nostro nuovo motore proprietario per bloccare le pubblicità mantenendo la qualità a 1080p60 nativi e senza proxy. È una prima release che continueremo a perfezionare nel tempo con i vostri feedback.",
+          "en": "Initial beta release of our new ad-blocking engine, keeping streams at native 1080p60 without proxies or black screens. This is a first version that will be continuously improved over time based on user feedback.",
+          "fr": "Première version bêta de notre moteur anti-pub sans proxy en 1080p60 natif. Il s'agit d'une première version qui sera continuellement affinée avec vos retours.",
+          "de": "Erste Beta-Version unserer werbeblockierenden Engine für natives 1080p60 ohne Proxys. Diese erste Version wird mit Ihrem Feedback stetig weiterentwickelt.",
+          "es": "Primera versión beta de nuestro motor de bloqueo de anuncios en 1080p60 nativo y sin proxies. Es una versión inicial que iremos perfeccionando con vuestro feedback.",
+          "pt": "Primeira versão beta do nosso motor de bloqueio de anúncios em 1080p60 nativo sem proxies. Uma primeira versão que continuaremos aperfeiçoando com o feedback de vocês."
+        }
+      },
+      {
+        "type": "feature",
+        "title": {
+          "it": "Nuovo Retold Mixer Audio",
+          "en": "New Retold Audio Mixer",
+          "fr": "Nouveau Retold Mixer Audio",
+          "de": "Neuer Retold Audio Mixer",
+          "es": "Nuevo Retold Mixer de Audio",
+          "pt": "Novo Retold Mixer de Áudio"
+        },
+        "desc": {
+          "it": "Nuovo mixer audio integrato nel player con boost dei dialoghi per sentire chiaramente la voce dello streamer, compressione dinamica anti-picchi e preset dedicati al gameplay.",
+          "en": "Built-in player audio mixer with dialogue boost to clearly hear the streamer, dynamic compression to prevent loud volume spikes, and dedicated presets for gameplay.",
+          "fr": "Nouveau mixeur audio intégré au lecteur avec clarté vocale pour le streamer, limitation dynamique des pics sonores et profils optimisés pour le jeu.",
+          "de": "Integrierter Audio-Mixer mit Dialog-Hervorhebung für klare Streamer-Stimmen, Dynamikbegrenzung gegen Lautstärkespitzen und Gameplay-Presets.",
+          "es": "Nuevo mezclador de audio integrado con realce de voz del streamer, control de picos de volumen y ajustes predefinidos para juegos.",
+          "pt": "Novo mixer de áudio integrado com destaque para a voz do streamer, controle dinâmico de picos de som e modos pré-definidos para jogos."
+        }
+      },
+      {
+        "type": "feature",
+        "title": {
+          "it": "Nuova Scheda Diagnostica & Segnalazioni",
+          "en": "New Diagnostics & Feedback Tab",
+          "fr": "Nouvel Onglet Diagnostics & Retours",
+          "de": "Neuer Diagnose- & Feedback-Tab",
+          "es": "Nueva Pestaña de Diagnóstico y Reportes",
+          "pt": "Nova Aba de Diagnóstico e Relatórios"
+        },
+        "desc": {
+          "it": "Nuova schermata di diagnostica accessibile direttamente dalla barra in alto: raccoglie stato dell'app, versione e parametri utili in un click, che spero vi aiuterà a segnalarci meglio ogni problema.",
+          "en": "New diagnostics tab accessible directly from the top navigation bar: collects app status, version, and useful parameters in one click, which will help you report any issues to us much more easily.",
+          "fr": "Nouvel onglet de diagnostic accessible directement depuis la barre supérieure : rassemble l'état de l'application et les détails utiles en un clic pour nous signaler plus facilement tout problème.",
+          "de": "Neuer Diagnose-Tab direkt über die obere Menüleiste erreichbar: erfasst App-Status und Details mit einem Klick, damit ihr uns Probleme künftig noch einfacher melden könnt.",
+          "es": "Nueva pestaña de diagnóstico accesible directamente desde la barra superior: recopila el estado de la app y datos útiles en un clic, que esperamos os ayude a reportarnos mejor cualquier problema.",
+          "pt": "Nova aba de diagnóstico acessível diretamente pela barra superior: reúne o status do app e detalhes úteis em um clique, o que vai ajudar vocês a nos relatarem qualquer problema com mais facilidade."
+        }
+      },
+      {
+        "type": "improvement",
+        "title": {
+          "it": "Tema Dark OLED & Miglioramenti UI",
+          "en": "Dark OLED Theme & UI Improvements",
+          "fr": "Thème Dark OLED & Améliorations UI",
+          "de": "Dark OLED Theme & UI-Verbesserungen",
+          "es": "Tema Dark OLED y Mejoras de Interfaz",
+          "pt": "Tema Dark OLED e Melhorias de Interface"
+        },
+        "desc": {
+          "it": "Aggiunto il tema nero assoluto (#000000) ideale per schermi OLED, pulsante rapido per il canale Telegram ufficiale, menu e impostazioni rifiniti per una navigazione più fluida e pulita.",
+          "en": "Added true black (#000000) theme tailored for OLED displays, direct access button for the official Telegram channel, and refined menus for a cleaner look.",
+          "fr": "Nouveau thème noir absolu (#000000) pour écrans OLED, accès direct au Telegram officiel et interface épurée pour une navigation plus fluide.",
+          "de": "Neues tiefschwarzes (#000000) OLED-Design, direkter Telegram-Button und überarbeitete Menüs für eine aufgeräumte Optik.",
+          "es": "Añadido tema negro absoluto (#000000) ideal para pantallas OLED, acceso directo al canal de Telegram y menús refinados.",
+          "pt": "Adicionado tema preto absoluto (#000000) para telas OLED, atalho para o canal do Telegram e interface refinada."
+        }
+      },
+      {
+        "type": "fix",
+        "title": {
+          "it": "Bug Fix, Modalità PiP & Riproduzione VOD",
+          "en": "Bug Fixes, PiP Mode & VOD Playback",
+          "fr": "Corrections de bugs, Mode PiP & VOD",
+          "de": "Fehlerbehebungen, PiP-Modus & VOD",
+          "es": "Corrección de Errores, Modo PiP y VOD",
+          "pt": "Correções de Bugs, Modo PiP e VOD"
+        },
+        "desc": {
+          "it": "Risolti i problemi e i blocchi con il Picture-in-Picture (PiP), sistemato il bug che tagliava la durata dei VOD a pochi minuti nella timeline, migliorate le anteprime al passaggio del mouse ed eliminati falsi schermi offline.",
+          "en": "Fixed issues and freezing with Picture-in-Picture (PiP), resolved the bug cutting VOD durations to a few minutes on the timeline, improved hover previews, and removed false offline screens.",
+          "fr": "Correction des problèmes avec le Picture-in-Picture (PiP), résolution de la durée tronquée des VOD, amélioration du survol et suppression des faux écrans hors ligne.",
+          "de": "Probleme mit Picture-in-Picture (PiP) behoben, abgeschnittene VOD-Dauer korrigiert, Vorschau verbessert und falsche Offline-Meldungen entfernt.",
+          "es": "Solucionados los problemas con el modo Picture-in-Picture (PiP), arreglada la duración cortada de los VOD, mejorada la vista previa y eliminadas falsas alertas de offline.",
+          "pt": "Corrigidos os problemas no Picture-in-Picture (PiP), corrigida a duração limitada dos VODs na barra de tempo, melhorada a pré-visualização e removidos falsos avisos de offline."
+        }
+      }
+    ]
+  },
+  {
+    "version": "1.1.0",
+    "date": "2026-09-05",
+    "title": {
+      "it": "Aggiornamento v1.1.0 - Player Custom VOD & RetoldShield",
+      "en": "Update v1.1.0 - Custom VOD Player & RetoldShield",
+      "fr": "Mise à jour v1.1.0 - Lecteur VOD Personnalisé & RetoldShield",
+      "de": "Update v1.1.0 - Eigener VOD-Player & RetoldShield",
+      "es": "Actualización v1.1.0 - Reproductor VOD Personalizado & RetoldShield",
+      "pt": "Atualização v1.1.0 - Player VOD Personalizado & RetoldShield"
+    },
+    "items": [
+      {
+        "type": "improvement",
+        "title": {
+          "it": "Miglioramenti Anti-Ad",
+          "en": "Anti-Ad Improvements",
+          "fr": "Améliorations Anti-Pub",
+          "de": "Anti-Ad Verbesserungen",
+          "es": "Mejoras en Anti-Ad",
+          "pt": "Melhorias no Anti-Ad"
+        },
+        "desc": {
+          "it": "Ottimizzato il motore di intercettazione per una visione più fluida e senza interruzioni.",
+          "en": "Optimized filtering engine for a cleaner and smoother stream playback.",
+          "fr": "Optimisation du moteur de filtrage pour une lecture plus fluide et sans interruptions.",
+          "de": "Optimierung der Filter-Engine für eine flüssigere und sauberere Wiedergabe.",
+          "es": "Motor de filtrado optimizado para una reproducción más limpia y fluida.",
+          "pt": "Motor de filtragem otimizado para uma reprodução mais limpa e fluida."
+        }
+      },
+      {
+        "type": "fix",
+        "title": {
+          "it": "Risoluzione Bug Riproduzione VOD",
+          "en": "VOD Playback Bug Fixes",
+          "fr": "Corrections de lecture des VOD",
+          "de": "Fehlerbehebungen bei der VOD-Wiedergabe",
+          "es": "Corrección de errores en VODs",
+          "pt": "Correções na Reprodução de VODs"
+        },
+        "desc": {
+          "it": "Risolti problemi di riproduzione, seek e sincronizzazione durante la visione dei VOD.",
+          "en": "Fixed playback, seeking, and timeline synchronization issues across VODs.",
+          "fr": "Résolution des problèmes de lecture, avance rapide et synchronisation des rediffusions.",
+          "de": "Probleme bei der Wiedergabe, beim Spulen und Synchronisieren von VODs behoben.",
+          "es": "Corregidos fallos de reproducción, avance y sincronización en transmisiones grabadas.",
+          "pt": "Corrigidos problemas de reprodução, busca e sincronização nas transmissões gravadas."
+        }
+      },
+      {
+        "type": "feature",
+        "title": {
+          "it": "Nuovo Player Custom per i VOD",
+          "en": "New Custom VOD Player",
+          "fr": "Nouveau Lecteur VOD Dédié",
+          "de": "Neuer Eigener VOD-Player",
+          "es": "Nuevo Reproductor VOD Dedicado",
+          "pt": "Novo Player Customizado para VODs"
+        },
+        "desc": {
+          "it": "Introdotto un player integrato dedicato con controlli ottimizzati per i VOD.",
+          "en": "Introduced a dedicated custom player with enhanced controls for past broadcasts.",
+          "fr": "Intégration d'un lecteur personnalisé avec contrôles optimisés pour les rediffusions.",
+          "de": "Eigener integrierter Player mit optimierter Steuerung für frühere Übertragungen.",
+          "es": "Introducido un reproductor personalizado con controles optimizados para retransmisiones.",
+          "pt": "Introduzido um player integrado com controles aprimorados para transmissões anteriores."
+        }
+      },
+      {
+        "type": "new",
+        "title": {
+          "it": "Annuncio: RetoldShield in Arrivo a Breve 🛡️",
+          "en": "Announcement: RetoldShield Coming Soon 🛡️",
+          "fr": "Annonce : RetoldShield Arrive Bientôt 🛡️",
+          "de": "Ankündigung: RetoldShield Kommt Bald 🛡️",
+          "es": "Anuncio: RetoldShield Llega Muy Pronto 🛡️",
+          "pt": "Anúncio: RetoldShield Chegando em Breve 🛡️"
+        },
+        "desc": {
+          "it": "È attualmente in sviluppo e arriverà a breve RetoldShield, il nostro motore proprietario avanzato di blocco annunci.",
+          "en": "RetoldShield, our upcoming proprietary ad-blocking engine, is under active development and will arrive very soon.",
+          "fr": "RetoldShield, notre moteur propriétaire de blocage des publicités, est en développement actif et arrivera très prochainement.",
+          "de": "RetoldShield, unsere neue eigene Ad-Blocking-Engine, befindet sich in aktiver Entwicklung und wird schon bald erscheinen.",
+          "es": "RetoldShield, nuestro nuevo motor propietario de bloqueo de anuncios, está en desarrollo activo y llegará muy pronto.",
+          "pt": "RetoldShield, nosso próximo motor proprietário de bloqueio de anúncios, está em desenvolvimento ativo e chegará em breve."
+        }
+      }
+    ]
+  },
+  {
+    "version": "1.0.7",
+    "date": "2026-09-04",
+    "title": {
+      "it": "Aggiornamento v1.0.7 - Risoluzione Bug & Note Anti-Ad",
+      "en": "Update v1.0.7 - Bug Fixes & Anti-Ad Notes",
+      "fr": "Mise à jour v1.0.7 - Corrections de bugs & Notes Anti-Ad",
+      "de": "Update v1.0.7 - Fehlerbehebungen & Anti-Ad-Hinweise",
+      "es": "Actualización v1.0.7 - Correcciones de errores y notas Anti-Ad",
+      "pt": "Atualização v1.0.7 - Correções de bugs e notas do Anti-Ad"
+    },
+    "items": [
+      {
+        "type": "fix",
+        "title": {
+          "it": "Risoluzione Bug Generali",
+          "en": "General Bug Fixes",
+          "fr": "Corrections de bugs généraux",
+          "de": "Allgemeine Fehlerbehebungen",
+          "es": "Corrección de errores generales",
+          "pt": "Correções gerais de bugs"
+        },
+        "desc": {
+          "it": "Risolti bug generali e migliorata la stabilità dell'applicazione.",
+          "en": "Fixed general bugs and improved overall application stability.",
+          "fr": "Correction de bugs généraux et amélioration de la stabilité de l'application.",
+          "de": "Allgemeine Fehler behoben und Anwendungsstabilität verbessert.",
+          "es": "Se corrigieron errores generales y se mejoró la estabilidad de la aplicación.",
+          "pt": "Correção de bugs gerais e melhoria na estabilidade do aplicativo."
+        }
+      },
+      {
+        "type": "improvement",
+        "title": {
+          "it": "Stato del Sistema Anti-Ad",
+          "en": "Anti-Ad System Status",
+          "fr": "État du système Anti-Ad",
+          "de": "Status des Anti-Ad-Systems",
+          "es": "Estado del sistema Anti-Ad",
+          "pt": "Estado do sistema Anti-Ad"
+        },
+        "desc": {
+          "it": "Il sistema Anti-Ad potrebbe non essere ancora perfetto su tutti i canali o formati pubblicitari; lo sviluppo è continuo e costante per renderlo il più preciso e affidabile possibile.",
+          "en": "The Anti-Ad system might not be completely perfect across all channels or ad types yet; continuous work is underway to make it as precise and reliable as possible.",
+          "fr": "Le système Anti-Ad n'est peut-être pas encore parfait sur toutes les chaînes ; le travail est continu pour le rendre aussi précis et fiable que possible.",
+          "de": "Das Anti-Ad-System ist möglicherweise noch nicht auf allen Kanälen perfekt; die Weiterentwicklung läuft kontinuierlich, um es so präzise und zuverlässig wie möglich zu machen.",
+          "es": "El sistema Anti-Ad podría no ser perfecto en todos los canales o formatos aún; se continúa trabajando constantemente para hacerlo lo más preciso y fiable posible.",
+          "pt": "O sistema Anti-Ad pode ainda não ser perfeito em todos os canais; o trabalho é constante para torná-lo o mais preciso e confiável possível."
+        }
+      }
+    ]
+  },
+  {
     "version": "1.0.6",
     "date": "2026-09-04",
-    "badge": "LATEST",
     "title": {
       "it": "Aggiornamento v1.0.6 - Cronologia Recenti, Canale Telegram e Bug Fixes",
       "en": "Update v1.0.6 - Last Watched Tab, Telegram Channel & Bug Fixes",
@@ -104,7 +355,7 @@
           "fr": "Envoyez vos retours ou signalez des bugs directement depuis l'application avec diagnostics système et ouverture dans votre navigateur par défaut.",
           "de": "Senden Sie Feedback oder melden Sie Fehler direkt aus der App mit Systemdiagnose und Öffnen im Standardbrowser.",
           "es": "Envía opiniones, sugerencias o reporta incidencias directamente desde la aplicación con diagnóstico del sistema y apertura automática en tu navegador predeterminado.",
-          "pt": "Envie sugestões ou relate problemas diretamente do aplicativo com diagnóstico do sistema e abertura automática no seu navegador padrão."
+          "pt": "Envie sugestões ou relate problemas direttamente do aplicativo com diagnóstico do sistema e abertura automática no seu navegador padrão."
         }
       },
       {

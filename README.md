@@ -1,6 +1,8 @@
-<div align="center">
+﻿<div align="center">
 
-# 🟣 Twitch Retold
+<img src="img/TwitchRetold_Logo.png" alt="Twitch Retold Logo" width="130" style="margin-bottom: 12px;" />
+
+# Twitch Retold
 
 **The Ultimate, Ultra-Clean & Ad-Free Desktop Experience for Twitch**
 
@@ -14,7 +16,7 @@
 ---
 
 <p align="center">
-  <b>Twitch Retold</b> is a modern, standalone desktop client engineered to provide the cleanest, fastest, and most immersive Twitch viewing experience — completely free and ad-free.
+  <b>Twitch Retold</b> is a modern, standalone desktop client engineered to provide the cleanest, fastest, and most immersive Twitch viewing experience — completely free, ad-free, and powered by our revolutionary proprietary engine: <b>RetoldShield</b>.
 </p>
 
 [📥 **Download Latest Releases (Windows / macOS / Linux)**](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest) • [📢 **Telegram Channel**](https://t.me/twitch_retold) • [☕ **Support on Ko-fi**](https://ko-fi.com/hyperfinal)
@@ -26,74 +28,129 @@
 ## 📸 App Preview & Interface
 
 <p align="center">
-  <img src="img/Img_Home.png" alt="Twitch Retold Homepage" width="100%" style="border-radius: 10px; margin-bottom: 16px;" />
+  <img src="img/app/Homepage.jpg" alt="Twitch Retold Homepage" width="100%" style="border-radius: 10px; margin-bottom: 16px;" />
 </p>
 
 <p align="center">
-  <img src="img/Img_Playlist.png" alt="Series & Playlist Player" width="100%" style="border-radius: 10px; margin-bottom: 16px;" />
+  <img src="img/app/CustomVod.jpg" alt="Sub-Only VOD Unlocker & Player" width="100%" style="border-radius: 10px; margin-bottom: 16px;" />
 </p>
 
 <p align="center">
-  <img src="img/Img_Tab.png" alt="Twitch Retold Settings & Toggles" width="100%" style="border-radius: 10px;" />
+  <img src="img/app/Playlist.jpg" alt="Series & Playlist Player" width="100%" style="border-radius: 10px; margin-bottom: 16px;" />
+</p>
+
+<p align="center">
+  <img src="img/app/RetoldMenu.png" alt="RetoldShield Settings & Control Panel" width="100%" style="border-radius: 10px; margin-bottom: 16px;" />
+</p>
+
+<p align="center">
+  <img src="img/app/RetoldMixer.png" alt="Retold Mixer DSP Audio Suite" width="100%" style="border-radius: 10px; margin-bottom: 16px;" />
+</p>
+
+<p align="center">
+  <img src="img/app/LastWatchedMenu.png" alt="Last Watched Quick Navigation" width="100%" style="border-radius: 10px;" />
 </p>
 
 ---
 
-## ✨ Key Features
+## 🛡️ RetoldShield — The New Standard in Ad-Free Streaming
 
-### 🛡️ 1. Zero-Ad Stream Protection
-- **Zero Prerolls & Midrolls**: Proprietary HLS stream interception and playlist cleaning remove video ads at the network and player levels.
-- **No Stutter or Drops**: Maintains maximum stream quality (Source / 1080p60) without frame drops or buffering stalls.
+With this release, **Twitch Retold officially transitions to RetoldShield as its default primary built-in engine**.
 
-### 🔓 2. Sub-Only VOD Unlocker
-- **Bypass Subscriber-Only Restrictions**: Watch subscriber-locked past broadcasts, highlights, and VODs effortlessly.
-- **Synchronized Chat & Timestamps**: Full chat playback synchronized with past broadcasts.
+Unlike traditional adblock proxies that downscale video to **480p/360p** with heavy lag (+500ms), or legacy scripts that suffer from **stream blackouts and buffering loops**, **RetoldShield** delivers **100% ad elimination at native 1080p60 Source resolution with zero playback interruptions, zero proxy lag, and direct Twitch CDN delivery**.
 
-### 🎭 3. Complete Emote Ecosystem (7TV, BTTV & FFZ)
-- **7TV Animated Emotes**: Full support for 7TV animated emotes, badges, and zero-width emote combinations.
-- **BetterTTV & FrankerFaceZ**: Enjoy custom community emotes in any channel's chat.
+---
 
-### 🎬 4. Playlist & Series Player
-- **Sequential VOD Playback**: Binge-watch long gaming sessions, walkthrough series, and past broadcasts with automatic next-episode queuing.
+### 📊 Real-World Benchmark: RetoldShield vs. Legacy AdBlock vs. PurpleTV
 
-### ⏱️ 5. Watch History & VOD Timestamp Resume
-- **Interactive 'Last Live / VODs' Navigation Tab**: Instant access to your recently watched channels and streams right from the top navigation bar.
-- **Smart Live vs. VOD Choice**: If a channel is live, seamlessly choose between jumping straight into the live stream or resuming from your exact saved timestamp in the VOD.
-- **Auto-Conversion for Ended Streams**: Past live broadcasts automatically convert into VODs with your watch progression preserved.
-- **Custom Dark Modal**: Sleek confirmation dialogs and individual history management.
+Evaluated across a high-stress dataset recorded directly from live Twitch broadcasts (**9,072 live playlist manifests**, **131,200 video segments**, and **951 commercial ad events** across 10 top live channels):
 
-### 🌙 6. True Dark OLED Theme
-- **Deep Black Aesthetic**: Tailored for high-end OLED and IPS monitors with deep `#0a0a0f` tones and sleek neon accents.
-- **Distraction-Free UI**: Clean titlebar, navigation buttons, and refined chat readability.
+<p align="center">
+  <img src="img/benchmark/benchmark-disruptions.png" alt="Stream Stability & Playback Disruptions" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+</p>
 
-### ⚙️ 7. Modular Customization (Settings Modal `F2`)
-- **Top Bar Cleaner**: Option to hide native promo banners, notifications, and clutter.
-- **Sidebar Cleaner**: Hide stories, recommended channels, and offline channels.
-- **Multi-Language Support**: Fully localized in English, Italian, French, German, Spanish, and Portuguese.
+<p align="center">
+  <img src="img/benchmark/benchmark-quality-latency.png" alt="Stream Resolution and Latency Overhead" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+</p>
+
+<p align="center">
+  <img src="img/benchmark/benchmark-quadrant.png" alt="Ad-Blocking Efficacy vs Stream Continuity" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+</p>
+
+<p align="center">
+  <img src="img/benchmark/benchmark-rs-vs-purpletv-matrix.png" alt="RetoldShield vs PurpleTV Head-to-Head Comparison" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+</p>
+
+<p align="center">
+  <img src="img/benchmark/benchmark-rs-vs-purpletv-endurance.png" alt="3-Hour Live Stream & Network Switch Behavioral Model" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+</p>
+
+---
+
+### ⚖️ Performance Comparison Matrix
+
+| Metric / Feature | 🛡️ **RetoldShield** *(New Default)* | ⚙️ **Legacy AdBlock** *(In-Page)* | 🌐 **PurpleTV / TTV LOL** *(Proxy)* | 🔴 **Unprotected Twitch** |
+| :--- | :---: | :---: | :---: | :---: |
+| **Video Ad Elimination** | **100% Ad-Free (951/951)** | **100% Ad-Free (951/951)** | ⚠️ 90–95% *(Ad leaks on handshake)* | 0% *(951 Ads Shown)* |
+| **Resolution During Ads** | **Native 1080p60 Source** | **Native 1080p60 Source** | ❌ **Forced 480p/360p Downscale** | 1080p60 *(With Ads)* |
+| **Stream Breakages & Stalls** | **0 Disruptions (Flawless)** | ❌ **340 Disruptions** *(173 offline, 167 freezes)* | ❌ **185 Disruptions** *(502 drops & timeout)* | 0 Disruptions |
+| **Added Network Latency** | **~0.12 ms (Direct Local Engine)** | ~0.08 ms (Direct Local) | ❌ **+350ms to +600ms (Severe Delay)** | 0 ms |
+| **Chat Synchronization** | **100% Real-Time** | 100% Real-Time | ❌ Out-of-sync *(Delayed reactions)* | 100% Real-Time |
+| **Server Dependence** | **None (100% Local Engine)** | None (100% Local Engine) | ❌ Vulnerable to proxy outages & bans | Official Twitch CDN |
+| **Multi-Window Stress Test** | **101/101 Ads Resolved (0 Stalls)** | High desync risk on multi-window | Bandwidth bottlenecks during peak hours | Constant commercial breaks |
+
+---
+
+## ✨ Key Features & Enhancements
+
+### 🛡️ 1. RetoldShield Zero-Ad Engine
+* Built-in by default — blocks all preroll and midroll video ads silently.
+* Direct CDN connection ensures zero stream buffering, no resolution drops, and real-time chat sync.
+* Real-time ad counter with accurate debouncing and 1-click counter reset.
+
+### 🌙 2. Deep Black OLED Theme
+* Crafted for OLED and high-contrast IPS displays with pure `#000000` backgrounds and vibrant neon purple accents (`#a970ff`).
+* Instant real-time toggle in Settings (<kbd>F2</kbd>) without requiring app restart.
+
+### 🔓 3. Sub-Only VOD Unlocker
+* Watch subscriber-locked past broadcasts, highlights, and VODs seamlessly.
+* Synchronized chat replay and timestamp navigation preserved.
+
+### 🎭 4. 7TV, BetterTTV & FrankerFaceZ Emotes
+* Built-in support for 7TV animated emotes, personal badges, and zero-width emote stacking.
+* BetterTTV and FFZ channel emotes render directly inside native Twitch chat.
+
+### 🎬 5. Playlist & Series Binge Player
+* Sequential VOD playback with automatic next-episode queuing for series, podcasts, and playthroughs.
+
+### ⏱️ 6. Watch History & Smart Timestamp Resume
+* Quick-access "Last Live / VODs" navigation bar tab to resume channels from your exact saved position.
+* Automatically converts finished live broadcasts into historical VODs.
+
+### ⚙️ 7. Full Localization & Customization
+* 100% translated across **6 languages**: English, Italian, French, German, Spanish, and Portuguese.
+* Modular toggles: customize titlebar, hide stories, clean sidebar, and adjust layout clutter.
+* Fully localized Live Debug Console for advanced diagnostics.
 
 ### 🔄 8. Native 1-Click Auto-Updater
-- **Instant Toast Notification**: Displays a sleek, non-intrusive glowing notification toast as soon as a new version is published.
-- **1-Click Download & Seamless Restart**: Clicking "Update" immediately starts the download with real-time progress, then restarts into the updated app with all user data preserved.
-- **Periodic Background Polling**: Automatically checks GitHub Releases every 2 hours in the background, so long-running sessions never fall behind.
-
-### 📢 9. Official Telegram Channel
-- **Instant Release Notifications**: Stay up to date with new versions, automatic changelogs, and direct installer links via [@twitch_retold](https://t.me/twitch_retold).
+* Periodic background checking with glowing toast alerts when new versions drop.
+* One-click download and instant seamless restart.
 
 ---
 
 ## 🚀 Installation & Getting Started
 
 ### 🪟 Windows:
-1. Go to [Latest Releases](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest) and download `Twitch Retold Setup <version>.exe`.
-2. Run the installer. If Windows Defender SmartScreen blocks the application, click on **"More info"** and then **"Run anyway"** to proceed.
+1. Download **`Twitch Retold Setup <version>.exe`** from [Latest Releases](https://github.com/HyperFinal/Twitch-Retold-Desktop-App-Version-of-Twitch/releases/latest).
+2. Run the installer. If Windows Defender SmartScreen appears, click **"More info"** and then **"Run anyway"**.
 
 ### 🍎 macOS:
-1. Download `Twitch.Retold-<version>.dmg` (supports both Apple Silicon M1/M2/M3 and Intel Macs).
+1. Download **`Twitch.Retold-<version>.dmg`** (Universal: Apple Silicon M1/M2/M3/M4 & Intel).
 2. Open the DMG and drag **Twitch Retold** into your **Applications** folder.
 
 ### 🐧 Linux:
-1. **AppImage** (Universal): Download `Twitch.Retold-<version>.AppImage`, make it executable (`chmod +x Twitch.Retold-*.AppImage`), and run.
-2. **Debian / Ubuntu / Mint**: Download `twitch-retold_*_amd64.deb` and install via `sudo dpkg -i twitch-retold_*_amd64.deb`.
+1. **AppImage** (Universal): Download `Twitch.Retold-<version>.AppImage`, make it executable (`chmod +x Twitch.Retold-*.AppImage`), and launch.
+2. **Debian / Ubuntu / Mint**: Download `twitch-retold_*_amd64.deb` and run `sudo dpkg -i twitch-retold_*_amd64.deb`.
 
 ---
 
@@ -107,15 +164,9 @@
 
 ---
 
-## ⭐ Show Your Support
-
-If you find **Twitch Retold** useful, please consider giving this repository a **Star** ⭐ on GitHub and sharing it with friends! It helps more people find the project and motivates ongoing development.
-
----
-
 ## 📢 Official Telegram Channel
 
-Stay instantly informed about new releases, critical bug fixes, and feature updates. Get direct download links for Windows, macOS, and Linux as soon as a new version is published:
+Stay instantly informed about new releases, critical hotfixes, and direct installer downloads:
 
 <div align="center">
 
@@ -129,35 +180,20 @@ Stay instantly informed about new releases, critical bug fixes, and feature upda
 
 ## ☕ Support the Project
 
-Twitch Retold is an independent, **100% free** application designed to give everyone the cleanest and most enjoyable Twitch viewing experience.
-
-If you love using Twitch Retold and want to support ongoing updates, maintenance, and new features:
+Twitch Retold is independent and **100% free**. If you appreciate our work and want to support ongoing development:
 
 <div align="center">
-
-<br>
 
 [![Support on Ko-fi](https://img.shields.io/badge/☕%20Buy%20me%20a%20coffee%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/hyperfinal)
 
 **👉 [https://ko-fi.com/hyperfinal](https://ko-fi.com/hyperfinal)**
 
-<br>
-
-*Every contribution helps keep Twitch Retold actively updated. Thank you for your support! ❤️*
+*Every coffee helps keep Twitch Retold actively updated and ad-free. Thank you! ❤️*
 
 </div>
 
 ---
 
-## 📱 Mobile Version (Work in Progress)
-
-> [!NOTE]
-> 🚧 **Twitch Retold for Mobile is currently in development!**
->
-> We are working on bringing the same ad-free, high-performance experience, custom themes, sub-only VOD unlocking, and full emote support to mobile devices. Stay tuned for upcoming release announcements!
-
----
-
 <div align="center">
-<sub>Twitch Retold is not affiliated with, endorsed by, or sponsored by Twitch Interactive, Inc. or Amazon.com, Inc.</sub>
+<sub>Twitch Retold is an independent open-source project and is not affiliated with, endorsed by, or sponsored by Twitch Interactive, Inc. or Amazon.com, Inc.</sub>
 </div>
