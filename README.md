@@ -148,8 +148,11 @@ Evaluated across a high-stress dataset recorded directly from live Twitch broadc
 2. Run the installer. If Windows Defender SmartScreen appears, click **"More info"** and then **"Run anyway"**.
 
 ### 🍎 macOS:
-1. Download **`Twitch.Retold-<version>.dmg`** (Universal: Apple Silicon M1/M2/M3/M4 & Intel).
-2. Open the DMG and drag **Twitch Retold** into your **Applications** folder.
+1. Download the correct file for your Mac's processor:<br/>
+  Apple Silicon (M1 / M2 / M3 / M4): download Twitch-Retold-<version>-arm64.dmg <br/>
+  Intel: download Twitch-Retold-<version>.dmg
+
+3. Open the DMG and drag **Twitch Retold** into your **Applications** folder.
 
 ### 🐧 Linux:
 1. **AppImage** (Universal): Download `Twitch.Retold-<version>.AppImage`, make it executable (`chmod +x Twitch.Retold-*.AppImage`), and launch.
