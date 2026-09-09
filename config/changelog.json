@@ -1,8 +1,136 @@
 [
   {
+    "version": "2.1.0",
+    "date": "2026-09-09",
+    "badge": "LATEST",
+    "title": {
+      "it": "Twitch Retold v2.1.0 - Stabilità, Retold Mixer & RetoldShield",
+      "en": "Twitch Retold v2.1.0 - Stability, Retold Mixer & RetoldShield",
+      "fr": "Twitch Retold v2.1.0 - Stabilité, Retold Mixer & RetoldShield",
+      "de": "Twitch Retold v2.1.0 - Stabilität, Retold Mixer & RetoldShield",
+      "es": "Twitch Retold v2.1.0 - Estabilidad, Retold Mixer y RetoldShield",
+      "pt": "Twitch Retold v2.1.0 - Estabilidade, Retold Mixer e RetoldShield"
+    },
+    "items": [
+      {
+        "type": "fix",
+        "title": {
+          "it": "Correzioni di stabilità, PiP e scorciatoie",
+          "en": "Stability, PiP and Shortcut Fixes",
+          "fr": "Corrections de stabilité, PiP et raccourcis",
+          "de": "Fehlerbehebungen für Stabilität, PiP und Tastenkürzel",
+          "es": "Correcciones de estabilidad, PiP y atajos",
+          "pt": "Correções de estabilidade, PiP e atalhos"
+        },
+        "desc": {
+          "it": "Risolto il bug che intercettava F5 fuori dall'app e la riavviava. Risolto anche il problema che impediva l'apertura del PiP interno premendo Home.",
+          "en": "Fixed a bug where F5 was intercepted outside the app and restarted it. Also fixed the issue preventing the internal PiP from opening when pressing Home.",
+          "fr": "Correction d'un bug qui interceptait F5 en dehors de l'application et la redémarrait. Correction également du PiP interne qui ne s'ouvrait pas avec Accueil.",
+          "de": "Ein Fehler wurde behoben, durch den F5 außerhalb der App abgefangen und die App neu gestartet wurde. Außerdem wurde das interne PiP beim Drücken von Home repariert.",
+          "es": "Corregido un error que interceptaba F5 fuera de la aplicación y la reiniciaba. También se solucionó el problema que impedía abrir el PiP interno al pulsar Inicio.",
+          "pt": "Corrigido um erro que interceptava F5 fora do aplicativo e o reiniciava. Também foi corrigido o problema que impedia abrir o PiP interno ao pressionar Home."
+        }
+      },
+      {
+        "type": "fix",
+        "title": {
+          "it": "Attivazione di RetoldShield",
+          "en": "RetoldShield Activation",
+          "fr": "Activation de RetoldShield",
+          "de": "RetoldShield-Aktivierung",
+          "es": "Activación de RetoldShield",
+          "pt": "Ativação do RetoldShield"
+        },
+        "desc": {
+          "it": "Risolto un problema che poteva impedire l'attivazione del RetoldShield. Se necessario, verifica nelle impostazioni che l'opzione sia selezionata.",
+          "en": "Fixed an issue that could prevent RetoldShield from activating. If needed, check the settings to make sure the option is enabled.",
+          "fr": "Correction d'un problème pouvant empêcher l'activation de RetoldShield. Si nécessaire, vérifiez que l'option est activée dans les paramètres.",
+          "de": "Ein Problem, das die Aktivierung von RetoldShield verhindern konnte, wurde behoben. Prüfen Sie bei Bedarf in den Einstellungen, ob die Option aktiviert ist.",
+          "es": "Corregido un problema que podía impedir la activación de RetoldShield. Si es necesario, comprueba en los ajustes que la opción esté activada.",
+          "pt": "Corrigido um problema que podia impedir a ativação do RetoldShield. Se necessário, verifique nas configurações se a opção está ativada."
+        }
+      },
+      {
+        "type": "improvement",
+        "title": {
+          "it": "Miglioramenti a RetoldShield",
+          "en": "RetoldShield Improvements",
+          "fr": "Améliorations de RetoldShield",
+          "de": "Verbesserungen an RetoldShield",
+          "es": "Mejoras en RetoldShield",
+          "pt": "Melhorias no RetoldShield"
+        },
+        "desc": {
+          "it": "Sono stati apportati miglioramenti a RetoldShield.",
+          "en": "Improvements have been made to RetoldShield.",
+          "fr": "Des améliorations ont été apportées à RetoldShield.",
+          "de": "An RetoldShield wurden Verbesserungen vorgenommen.",
+          "es": "Se han realizado mejoras en RetoldShield.",
+          "pt": "Foram feitas melhorias no RetoldShield."
+        }
+      },
+      {
+        "type": "improvement",
+        "title": {
+          "it": "Retold Mixer migliorato",
+          "en": "Improved Retold Mixer",
+          "fr": "Retold Mixer amélioré",
+          "de": "Verbesserter Retold Mixer",
+          "es": "Retold Mixer mejorado",
+          "pt": "Retold Mixer aprimorado"
+        },
+        "desc": {
+          "it": "Migliorate l'estetica, la precisione dei controlli e le funzionalità del Retold Mixer per una gestione dell'audio più chiara e affidabile.",
+          "en": "Improved the Retold Mixer’s appearance, control precision, and functionality for clearer and more reliable audio control.",
+          "fr": "Amélioration de l'apparence, de la précision des réglages et des fonctionnalités du Retold Mixer pour un contrôle audio plus clair et fiable.",
+          "de": "Aussehen, Präzision und Funktionen des Retold Mixers wurden für eine klarere und zuverlässigere Audiosteuerung verbessert.",
+          "es": "Mejorados el aspecto, la precisión de los controles y las funciones del Retold Mixer para una gestión de audio más clara y fiable.",
+          "pt": "A aparência, a precisão dos controles e as funções do Retold Mixer foram aprimoradas para um controle de áudio mais claro e confiável."
+        }
+      },
+      {
+        "type": "improvement",
+        "title": {
+          "it": "Miglioramenti generali dell'interfaccia",
+          "en": "General UI Improvements",
+          "fr": "Améliorations générales de l'interface",
+          "de": "Allgemeine UI-Verbesserungen",
+          "es": "Mejoras generales de la interfaz",
+          "pt": "Melhorias gerais na interface"
+        },
+        "desc": {
+          "it": "Affinamenti generali dell'interfaccia per una navigazione più coerente, pulita e piacevole.",
+          "en": "General interface refinements for a more consistent, cleaner, and smoother experience.",
+          "fr": "Affinements généraux de l'interface pour une expérience plus cohérente, claire et agréable.",
+          "de": "Allgemeine Verbesserungen der Oberfläche für eine einheitlichere, klarere und angenehmere Nutzung.",
+          "es": "Ajustes generales de la interfaz para una experiencia más coherente, limpia y agradable.",
+          "pt": "Ajustes gerais na interface para uma experiência mais consistente, limpa e agradável."
+        }
+      },
+      {
+        "type": "improvement",
+        "title": {
+          "it": "Problema conosciuto: RetoldShield in sviluppo",
+          "en": "Known Issue: RetoldShield Still in Development",
+          "fr": "Problème connu : RetoldShield est encore en développement",
+          "de": "Bekanntes Problem: RetoldShield wird weiterentwickelt",
+          "es": "Problema conocido: RetoldShield sigue en desarrollo",
+          "pt": "Problema conhecido: RetoldShield ainda em desenvolvimento"
+        },
+        "desc": {
+          "it": "Alcuni formati pubblicitari specifici possono ancora riuscire a passare. Stiamo perfezionando il motore e lavorando per renderlo più efficace a ogni aggiornamento.",
+          "en": "Some specific ad formats may still get through. We are continuing to refine the engine and improve its effectiveness with every update.",
+          "fr": "Certains formats publicitaires peuvent encore passer. Nous continuons à perfectionner le moteur pour améliorer son efficacité à chaque mise à jour.",
+          "de": "Einige spezielle Werbeformate können noch durchkommen. Wir entwickeln die Engine weiter und verbessern ihre Wirksamkeit mit jedem Update.",
+          "es": "Algunos formatos publicitarios específicos todavía pueden aparecer. Seguimos perfeccionando el motor para mejorar su eficacia con cada actualización.",
+          "pt": "Alguns formatos específicos de anúncios ainda podem passar. Continuamos aperfeiçoando o motor para melhorar sua eficácia a cada atualização."
+        }
+      }
+    ]
+  },
+  {
     "version": "2.0.0",
     "date": "2026-09-07",
-    "badge": "LATEST",
     "title": {
       "it": "Twitch Retold v2.0.0 - RetoldShield (Beta), Retold Mixer & Dark OLED",
       "en": "Twitch Retold v2.0.0 - RetoldShield (Beta), Retold Mixer & Dark OLED",

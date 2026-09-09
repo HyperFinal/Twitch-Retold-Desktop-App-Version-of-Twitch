@@ -1,7 +1,8 @@
 ﻿<div align="center">
 
-<img src="img/logo/Twitch Retold Logo Source Files/SVG/Twitch Retold-04.svg" alt="Twitch Retold Logo" width="130" style="margin-bottom: 12px;" />
+<img src="img/TwitchRetold_Logo.png" alt="Twitch Retold Logo" width="130" style="margin-bottom: 12px;" />
 
+# Twitch Retold
 
 **The Ultimate, Ultra-Clean & Ad-Free Desktop Experience for Twitch**
 
@@ -13,10 +14,6 @@
 [![Ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/hyperfinal)
 
 ---
-
-### Security 
-* **VirusTotal Report:** [SCAN](https://www.virustotal.com/gui/file/eae387ba6b500468c44d84d996a4788023229af1cb222ba87f4ec64a24458915)
-* **SHA-256:** `eae387ba6b500468c44d84d996a4788023229af1cb222ba87f4ec64a24458915`
 
 <p align="center">
   <b>Twitch Retold</b> is a modern, standalone desktop client engineered to provide the cleanest, fastest, and most immersive Twitch viewing experience — completely free, ad-free, and powered by our revolutionary proprietary engine: <b>RetoldShield</b>.
@@ -64,7 +61,7 @@ Unlike traditional adblock proxies that downscale video to **480p/360p** with he
 
 ---
 
-### 📊 Benchmark: RetoldShield vs. Legacy AdBlock vs. PurpleTV
+### 📊 Real-World Benchmark: RetoldShield vs. Legacy AdBlock vs. PurpleTV
 
 Evaluated across a high-stress dataset recorded directly from live Twitch broadcasts (**9,072 live playlist manifests**, **131,200 video segments**, and **951 commercial ad events** across 10 top live channels):
 
@@ -148,11 +145,8 @@ Evaluated across a high-stress dataset recorded directly from live Twitch broadc
 2. Run the installer. If Windows Defender SmartScreen appears, click **"More info"** and then **"Run anyway"**.
 
 ### 🍎 macOS:
-1. Download the correct file for your Mac's processor:<br/>
-  Apple Silicon (M1 / M2 / M3 / M4): download Twitch-Retold-<version>-arm64.dmg <br/>
-  Intel: download Twitch-Retold-<version>.dmg
-
-3. Open the DMG and drag **Twitch Retold** into your **Applications** folder.
+1. Download **`Twitch.Retold-<version>.dmg`** (Universal: Apple Silicon M1/M2/M3/M4 & Intel).
+2. Open the DMG and drag **Twitch Retold** into your **Applications** folder.
 
 ### 🐧 Linux:
 1. **AppImage** (Universal): Download `Twitch.Retold-<version>.AppImage`, make it executable (`chmod +x Twitch.Retold-*.AppImage`), and launch.
@@ -201,5 +195,5 @@ Twitch Retold is independent and **100% free**. If you appreciate our work and w
 ---
 
 <div align="center">
-<sub>Twitch Retold is an independent project and is not affiliated with, endorsed by, or sponsored by Twitch Interactive, Inc. or Amazon.com, Inc.</sub>
+<sub>Twitch Retold is an independent open-source project and is not affiliated with, endorsed by, or sponsored by Twitch Interactive, Inc. or Amazon.com, Inc.</sub>
 </div>
